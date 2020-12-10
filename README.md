@@ -1,2 +1,4 @@
 # project
-public folder for test
+public folder for tests
+
+This is my first project to get an experience in GitHub...
